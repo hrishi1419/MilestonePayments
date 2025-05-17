@@ -4,7 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
-MyModule = "0xe1f71fccdcca96ed712b937f81561796ef12cdccd71edc4774abc5cf05ad606e"
+SupplyChain = "0xe1f71fccdcca96ed712b937f81561796ef12cdccd71edc4774abc5cf05ad606e"
 [dev-addresses]
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
